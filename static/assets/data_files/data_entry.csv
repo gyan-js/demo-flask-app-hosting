@@ -1,0 +1,13 @@
+date,text,emotion,emotion_url
+"Date:1/19/2022","It was awesome I went to the garden and played with my friends","happiness","./static/assets/emoticons/Happiness.png"
+"Date:1/19/2022","My schedule was too hectic today...got tired","worry","./static/assets/emoticons/Worry.png"
+"Date:1/19/2022","Today it was raiing heavily","boredom","./static/assets/emoticons/Boredom.png"
+"Date:3/31/2023","Can't focus on my work today","worry","./static/assets/emoticons/Worry.png"
+"Date:3/31/2023","Feeling too sleepy","neutral","./static/assets/emoticons/Neutral.png"
+"Date:4/1/2023","today I did a lot of work got tired","worry","./static/assets/emoticons/Worry.png"
+"Date:4/1/2023","Debugged my code today..it took a lot of time","worry","./static/assets/emoticons/Worry.png"
+
+"Date:4/1/2023","went to play out with my cousins","happiness","./static/assets/emoticons/Happiness.png"
+"Date:4/1/2023","Today's schedule was so hectic","neutral","./static/assets/emoticons/Neutral.png"
+"Date:4/1/2023","Today I played with my cousins....","happiness","./static/assets/emoticons/Happiness.png"
+"Date:4/1/2023","Ugh, today I missed my bus...","worry","./static/assets/emoticons/Worry.png"
